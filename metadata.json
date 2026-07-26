@@ -1,0 +1,6 @@
+{
+  "name": "SAUDI EXPLORER AI",
+  "description": "اكتشف السعودية بذكاء - المنصة السياحية الوطنية الموحدة بالذكاء الاصطناعي للمملكة العربية السعودية",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

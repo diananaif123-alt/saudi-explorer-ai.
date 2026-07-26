@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://saudi-explorer.ai/sitemap.xml
